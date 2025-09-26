@@ -10,3 +10,9 @@ https://github.com/index-tts/index-tts
 
 开源markdown编辑器
 https://github.com/opendatalab/MinerU
+
+让chrome浏览器变成你的智能助手
+https://github.com/hangwin/mcp-chrome/tree/master
+
+
+https://github.com/HKUDS/DeepCode
