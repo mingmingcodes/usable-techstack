@@ -16,3 +16,6 @@ https://github.com/hangwin/mcp-chrome/tree/master
 
 
 https://github.com/HKUDS/DeepCode
+
+读懂别人的Git项目
+https://github.com/antarixxx/gitsummarize
